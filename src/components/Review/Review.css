@@ -1,0 +1,7 @@
+.img-round img{
+    border: 5px solid red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 50px;
+}
